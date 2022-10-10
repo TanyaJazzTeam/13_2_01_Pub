@@ -1,9 +1,0 @@
-synchronize:
-  paths:
-  - source: .
-    exclude:
-        - "*.json"
-        - "*.md"
-        - "*.yaml"
-    include:
-        - "*/smallfile-en.po"
