@@ -19,7 +19,6 @@ Zebrastreifen | sind ordentlich | ~~$1~~
 Dillinger is a cloud-enabled, mobile-ready, offline-storage, AngularJS powered HTML5 Markdown editor.
 
 - Geben Sie links etwas Markdown ein
-- оло
 - Siehe HTML rechts
 - Magie
 
